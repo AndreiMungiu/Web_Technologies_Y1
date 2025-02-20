@@ -1,4 +1,4 @@
 ##  WEB DEVELOPMENT
 
-Week 1
+## Week 1
 Introduction to HTML
